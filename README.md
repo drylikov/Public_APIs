@@ -1,4 +1,4 @@
-# Public APIs
+# Public APIs.
 
 This is an awesome list of free APIs. ⚡
 
