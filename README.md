@@ -1,12 +1,12 @@
 # Public APIs.
 
-This is an awesome list of free APIs. ⚡
+This is an awesome list of free APIs.
 
-APIs are added frequently! ⚡
+APIs are added frequently!
 
 Enjoy!
 
-If you like this repo, be sure to ⭐ it.
+If you like this repo, be sure to  it.
 
 Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new APIs.
 
